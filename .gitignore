@@ -1,0 +1,8 @@
+# Altium Designer ignore
+History/
+__Backup/
+*.Annotation
+*.StatusReport
+*.Log
+*.Error
+*.DRC
