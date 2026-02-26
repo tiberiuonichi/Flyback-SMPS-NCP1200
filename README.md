@@ -8,6 +8,8 @@ This repository contains the full hardware design for a compact, high-voltage Sw
 
 The project was developed using **Altium Designer** and includes everything from schematics and PCB layout to manufacturing files (Gerbers) and a detailed Bill of Materials (BOM).
 
+[Download Full PDF Documentation](Docs/Flyback_SMPS_Documentation.pdf)
+
 ## ⚙️ Technical Specifications
 | Parameter | Value |
 |-----------|-------|
