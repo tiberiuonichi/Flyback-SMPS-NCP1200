@@ -38,9 +38,8 @@ To comply with electromagnetic compatibility standards, the design includes:
 
 ## 📂 Project Structure
 - **/Design_Files**: Altium Designer source files (.PrjPcb, .SchDoc, .PcbDoc, and Libraries).
-- **/Manufacturing**: Production-ready files (Gerber RS-274X, NC Drill, and BOM).
-- **/Docs**: Full project documentation, including a comprehensive PDF containing schematics and 3D renders.
-- **/Images**: Visual previews of the schematic and the final 3D PCB layout.
+- **/Manufacturing**: Production-ready files (Gerber Files, NC Drill, and BOM).
+- **/Docs**: Full project documentation, including a comprehensive PDF containing schematics.
 
 ## ⚠️ Safety Warning
 **HIGH VOLTAGE HAZARD:** This circuit operates at 230V AC. Lethal voltages are present on the primary side. This project is for educational and professional evaluation purposes only. Use an isolation transformer and follow all safety protocols when testing.
