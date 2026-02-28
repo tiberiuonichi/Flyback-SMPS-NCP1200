@@ -45,5 +45,5 @@ To comply with electromagnetic compatibility standards, the design includes:
 **HIGH VOLTAGE HAZARD:** This circuit operates at 230V AC. Lethal voltages are present on the primary side. This project is for educational and professional evaluation purposes only. Use an isolation transformer and follow all safety protocols when testing.
 
 ---
-**Designed by:** Onichi Ionut-Tiberiu  
-**Tools:** Altium Designer, GitHub Desktop.
+-**Designed by:** Onichi Ionut-Tiberiu  
+-**Tools:** Altium Designer, GitHub Desktop.
