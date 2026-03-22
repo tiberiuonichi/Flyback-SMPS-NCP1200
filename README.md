@@ -44,7 +44,7 @@ To comply with electromagnetic compatibility standards, the design includes:
 ## Safety Warning
 HIGH VOLTAGE HAZARD: This circuit operates at 230V AC. Lethal voltages are present on the primary side. This project is for educational and professional evaluation purposes only. Use an isolation transformer and follow all safety protocols when testing.
 
-- **Full Project Documentation:** [Download Flyback_SMPS_Documentation.pdf](Docs/Flyback_SMPS_Documentation.pdf)
+- **Full Project Documentation:** [Download Flyback_SMPS.pdf](Docs/Flyback_SMPS.pdf)
 
 ---
 - **Designed by:** Onichi Ionut-Tiberiu  
