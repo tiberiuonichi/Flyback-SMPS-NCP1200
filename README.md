@@ -1,6 +1,6 @@
 ![Schematic Preview](Docs/Schematic.png)
-![3D PCB Preview](Docs/PCB_TOP.png)
-![3D PCB Preview](Docs/PCB_BOT.png)
+![3D PCB Preview](Docs/PCB_TOP_3D.png)
+![3D PCB Preview](Docs/PCB_BOT_3D.png)
 
 # 15W Isolated Flyback SMPS (230VAC to 6.5VDC)
 
@@ -17,7 +17,7 @@ The project was developed using Altium Designer and includes everything from sch
 | Max Power Output | ~15W |
 | Topology | Isolated Flyback |
 | Controller | ON Semi NCP1200 (Current-Mode PWM) |
-| Switching Freq | 60 kHz |
+| Switching Freq | 100 kHz |
 | Feedback Loop | Optoisolated (LTV-817) with TL431 Shunt Regulator |
 
 ## Key Features and Design Decisions
