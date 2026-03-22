@@ -1,7 +1,7 @@
 ![Schematic Preview](Docs/Schematic.png)
 ![2D PCB Preview](Docs/PCB_2D.png)
-![3D PCB Preview](Docs/PCB_TOP_3D.png)
-![3D PCB Preview](Docs/PCB_BOT_3D.png)
+![3D PCB Preview](Docs/PCB_TOP_3D1.png)
+![3D PCB Preview](Docs/PCB_BOT_3D1.png)
 
 # 15W Isolated Flyback SMPS (230VAC to 6.5VDC)
 
