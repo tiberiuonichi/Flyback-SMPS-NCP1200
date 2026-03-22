@@ -1,4 +1,5 @@
-![Schematic Preview](Docs/Schematic.png)
+![Schematic Preview](Docs/Schematic1.png)
+![2D PCB Preview](Docs/PCB_2D.png)
 ![3D PCB Preview](Docs/PCB_TOP_3D.png)
 ![3D PCB Preview](Docs/PCB_BOT_3D.png)
 
