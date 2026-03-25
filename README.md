@@ -30,8 +30,8 @@ The input connector (J1) features a 3-pin configuration where Pin 3 is designate
 
 ### 2. EMI Management
 To comply with electromagnetic compatibility standards, the design includes:
-- Input Pi-Filter: Common Mode Choke (L1) and X2 Capacitor (C1) to reduce conducted emissions.
-- Y-Capacitors (C2, C7): Strategically placed to provide a low-impedance path for switching noise across the isolation barrier.
+- Input Pi-Filter: Common Mode Choke (L1) and X2 Capacitor (C1,C2) to reduce conducted emissions.
+- Y-Capacitors (C7): Strategically placed to provide a low-impedance path for switching noise across the isolation barrier.
 
 ### 3. Efficiency and BOM Optimization
 - NCP1200 Benefits: By using the NCP1200's internal high-voltage current source for startup, the design eliminates the need for an auxiliary transformer winding, significantly reducing transformer complexity and cost.
